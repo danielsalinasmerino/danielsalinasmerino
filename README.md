@@ -8,9 +8,10 @@
 
 <p style="display: flex; align-items: center; gap: 10px; height: 50px;">
   <b>Let's connect!</b>
-  [![Linkedin: danielsalinasmerino](https://img.shields.io/badge/-danielsalinasmerino-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielsalinasmerino/)](https://www.linkedin.com/in/danielsalinasmerino/)
-  [![GitHub danielsalinasmerino](https://img.shields.io/github/followers/danielsalinasmerino?label=follow&style=social)](https://github.com/danielsalinasmerino) 
 </p>
+[![Linkedin: danielsalinasmerino](https://img.shields.io/badge/-danielsalinasmerino-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielsalinasmerino/)](https://www.linkedin.com/in/danielsalinasmerino/)
+[![GitHub danielsalinasmerino](https://img.shields.io/github/followers/danielsalinasmerino?label=follow&style=social)](https://github.com/danielsalinasmerino) 
+
 
 ---
 
