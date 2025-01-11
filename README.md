@@ -1,16 +1,90 @@
-## Hi there 👋
+<h2>Hi, I'm Dani! 👋</h2>
+<img align='right' src="https://cdn.dribbble.com/users/2454048/screenshots/15340392/media/dd54aafd6e4ecf7aa325c94113a792f5.gif" style="width:160px; height:160px; border-radius:50%;" alt="Animated waves GIF">
 
-<!--
-**danielsalinasmerino/danielsalinasmerino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+  Software Developer at <em><a href="https://www.acidtango.com/">Acid Tango</a></em> 
+  <img src="https://media.tenor.com/fcaVanxsG8sAAAAM/lemon-dancing.gif" width="30" height="30" alt="Dancing lemon">
+</p>
 
-Here are some ideas to get you started:
+<p style="display: flex; align-items: center; gap: 10px; height: 50px;">
+  <b>Let's connect!</b>
+  <a href="https://www.linkedin.com/in/danielsalinasmerino/">
+    <img src="https://img.shields.io/badge/-danielsalinasmerino-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/danielsalinasmerino">
+    <img src="https://img.shields.io/github/followers/danielsalinasmerino?label=follow&style=social" alt="GitHub Followers">
+  </a> 
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### About me...
+
+I'm a software developer with a passion for crafting intuitive user experiences and scalable architectures. Outside of coding, you'll find me dancing, traveling, or making the best risotto in the galaxy! 😄👨🏻‍🍳
+
+### Featured Projects
+
+- 📽️ **My Own TMDB**: A site to see information about films, heavily infulenced by [Letterbox](https://letterboxd.com/) and [Filmaffinity](https://www.filmaffinity.com/), powered by [TMDB](https://developer.themoviedb.org/) | [GitHub Repo](https://github.com/danielsalinasmerino/movies-app).
+
+---
+
+### Profile
+
+```typescript
+// Developer profile
+type Developer = {
+  code: Array<string>; // Programming languages known
+  tools: Array<string>; // Tools and frameworks used
+  architectures: Array<string>; // Architectural patterns I'm comfortable with
+  experienceYears?: number;
+};
+
+const daniDeveloper: Developer = {
+  code: ["JavaScript", "TypeScript", "HTML", "CSS"],
+  tools: [
+    "React",
+    "React Native",
+    "Next.js",
+    "React Query",
+    "Axios",
+    "CSS Modules",
+    "Jest",
+    "Lint",
+  ],
+  architectures: ["microservices", "hexagonal architecture", "atomic design"],
+  experienceYears: 5,
+};
+
+// Personal details
+type Person = {
+  name: string;
+  age?: number;
+  gender?: "male" | "female" | "non-binary" | "other";
+  hobbies?: Array<string>;
+  skills?: Array<string>;
+};
+
+const daniPerson: Person = {
+  name: "Daniel Salinas Merino",
+  age: 30,
+  gender: "male",
+  hobbies: [
+    "reading",
+    "sports",
+    "traveling",
+    "dancing",
+    "meditation",
+    "cooking",
+    "nature",
+  ],
+  skills: [
+    "communicate",
+    "stay calm",
+    "motivate",
+    "breathe",
+    "best risotto on the galaxy",
+  ],
+};
+
+export const dani = { ...daniPerson, ...daniDeveloper };
+```
