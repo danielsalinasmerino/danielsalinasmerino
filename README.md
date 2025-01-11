@@ -24,7 +24,7 @@ I'm a software developer with a passion for crafting intuitive user experiences 
 
 ### Featured Projects
 
-- 📽️ **My Own TMDB**: A film discovery site inspired by [Letterbox](https://letterboxd.com/) and [Filmaffinity](https://www.filmaffinity.com/), providing detailed movie information. Built with data from [TMDB](https://developer.themoviedb.org/). Check out the [GitHub Repo](https://github.com/danielsalinasmerino/movies-app).
+- 📽️ **My Own TMDB**: A film discovery site inspired by [Letterbox](https://letterboxd.com/) and [Filmaffinity](https://www.filmaffinity.com/), providing detailed movie information. Built with data from [TMDB](https://www.themoviedb.org/). Check out the [GitHub Repo](https://github.com/danielsalinasmerino/movies-app).
 
 ---
 
