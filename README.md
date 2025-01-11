@@ -1,5 +1,5 @@
 <h2>Hi, I'm Dani! 👋</h2>
-<img align='right' src="https://cdn.dribbble.com/users/2454048/screenshots/15340392/media/dd54aafd6e4ecf7aa325c94113a792f5.gif" height="160" width="160" style="border-radius:50%" alt="Animated waves GIF">
+<img align='right' src="https://cdn.dribbble.com/users/2454048/screenshots/15340392/media/dd54aafd6e4ecf7aa325c94113a792f5.gif" style="width:160px; height:160px; border-radius:50%;" alt="Animated waves GIF">
 
 <p>
   Software Developer at <em><a href="https://www.acidtango.com/">Acid Tango</a></em> 
@@ -41,16 +41,7 @@ type Developer = {
 
 const daniDeveloper: Developer = {
   code: ["JavaScript", "TypeScript", "HTML", "CSS"],
-  tools: [
-    "React",
-    "React Native",
-    "Next.js",
-    "React Query",
-    "Axios",
-    "CSS Modules",
-    "Jest",
-    "Lint",
-  ],
+  tools: ["React", "React Native", "Next.js", "React Query", "Axios", "CSS Modules", "Jest", "Lint"],
   architectures: ["microservices", "hexagonal architecture", "atomic design"],
   experienceYears: 5,
 };
@@ -68,22 +59,8 @@ const daniPerson: Person = {
   name: "Daniel Salinas Merino",
   age: 30,
   gender: "male",
-  hobbies: [
-    "reading",
-    "sports",
-    "traveling",
-    "dancing",
-    "meditation",
-    "cooking",
-    "nature",
-  ],
-  skills: [
-    "communicate",
-    "stay calm",
-    "motivate",
-    "breathe",
-    "best risotto on the galaxy",
-  ],
+  hobbies: ["reading", "sports", "traveling", "dancing", "meditation", "cooking", "nature"],
+  skills: ["communicate", "stay calm", "motivate", "breathe", "best risotto on the galaxy"],
 };
 
 export const dani = { ...daniPerson, ...daniDeveloper };
