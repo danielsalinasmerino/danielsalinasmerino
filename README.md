@@ -60,7 +60,7 @@ const daniPerson: Person = {
   age: 30,
   gender: "male",
   hobbies: ["reading", "sports", "traveling", "dancing", "meditation", "cooking", "nature"],
-  skills: ["communicate", "stay calm", "motivate", "breathe", "best risotto on the galaxy"],
+  skills: ["communication", "organization", "motivation", "problem solving"],
 };
 
 export const dani = { ...daniPerson, ...daniDeveloper };
