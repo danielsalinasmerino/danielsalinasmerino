@@ -7,7 +7,7 @@
 </p>
 
 <p style="display: flex; align-items: center; gap: 10px; height: 50px;">
-  <b>Let's connect!</b>
+  <b>Let's connect! </b>
   <a href="https://www.linkedin.com/in/danielsalinasmerino/">
     <img src="https://img.shields.io/badge/-danielsalinasmerino-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn">
   </a>
