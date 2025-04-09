@@ -2,8 +2,8 @@
 <img align='right' src="https://cdn.dribbble.com/users/2454048/screenshots/15340392/media/dd54aafd6e4ecf7aa325c94113a792f5.gif" style="width:160px; height:160px; border-radius:50%;" alt="Animated waves GIF">
 
 <p>
-  Software Developer at <em><a href="https://www.acidtango.com/">Acid Tango</a></em> 
-  <img src="https://media.tenor.com/fcaVanxsG8sAAAAM/lemon-dancing.gif" width="30" height="30" alt="Dancing lemon">
+  Software Developer at <em><a href="https://www.openbank.es/">Openbank</a></em> 
+  <img src="https://media.tenor.com/Mi_aXRRAeaYAAAAM/money-donald-duck.gif" width="40" height="40" alt="Dancing lemon">
 </p>
 
 <p style="display: flex; align-items: center; gap: 10px; height: 50px;">
@@ -41,7 +41,16 @@ type Developer = {
 
 const daniDeveloper: Developer = {
   code: ["JavaScript", "TypeScript", "HTML", "CSS"],
-  tools: ["React", "React Native", "Next.js", "React Query", "Axios", "CSS Modules", "Jest", "Lint"],
+  tools: [
+    "React",
+    "React Native",
+    "Next.js",
+    "React Query",
+    "Axios",
+    "CSS Modules",
+    "Jest",
+    "Lint",
+  ],
   architectures: ["microservices", "hexagonal architecture", "atomic design"],
   experienceYears: 5,
 };
@@ -59,7 +68,15 @@ const daniPerson: Person = {
   name: "Daniel Salinas Merino",
   age: 30,
   gender: "male",
-  hobbies: ["reading", "sports", "traveling", "dancing", "meditation", "cooking", "nature"],
+  hobbies: [
+    "reading",
+    "sports",
+    "traveling",
+    "dancing",
+    "meditation",
+    "cooking",
+    "nature",
+  ],
   skills: ["communication", "organization", "motivation", "problem solving"],
 };
 
