@@ -2,7 +2,7 @@
 <img align='right' src="https://cdn.dribbble.com/users/2454048/screenshots/15340392/media/dd54aafd6e4ecf7aa325c94113a792f5.gif" style="width:160px; height:160px; border-radius:50%;" alt="Animated waves GIF">
 
 <p>
-  Software Developer at <em><a href="https://www.openbank.es/">Openbank</a></em> 
+  Software Engineering Senior Analyst at <em><a href="https://www.openbank.es/">Openbank</a></em> 
   <img src="https://media.tenor.com/Mi_aXRRAeaYAAAAM/money-donald-duck.gif" width="40" height="40" alt="Dancing lemon">
 </p>
 
